@@ -1,0 +1,49 @@
+#navbarDropdown {
+    min-width: 140px;
+    text-align: right;
+}
+
+p {
+    margin: 5px 0 5px 0;
+}
+
+.btn {
+    width: 80px;
+}
+
+select {
+    width: 200px;
+    height: 35px;
+    margin: 0 10px 15px 0;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.custom-file {
+    width: 50%;
+    min-width: 400px;
+}
+
+section {
+    margin: 40px;
+}
+
+textarea {
+    resize: none;
+}
+
+#picture_upload {
+    text-align: center;
+    line-height: 30px;
+    font-weight: bolder;
+    font-size: 15pt;
+}
+
+.btn-confirm {
+    width: 80px;
+    height: 28px;
+    padding: 0;
+    margin-left: 10px;
+}

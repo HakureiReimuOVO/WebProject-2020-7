@@ -1,0 +1,43 @@
+#navbarDropdown {
+    min-width: 140px;
+    text-align: right;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+section {
+    margin: 40px 40px 0 40px;
+}
+
+.btn {
+    margin: 8px 8px 0 0;
+    padding: 0;
+    width: 70px;
+    height: 33px;
+}
+
+.message-container {
+    max-height: 450px;
+    padding: 0 5px 0 5px;
+    overflow: auto;
+}
+
+.message-send input {
+    margin-top: 8px;
+}
+
+.message {
+    margin: 10px 0 10px 0;
+}
+
+.time {
+    color: gray;
+    font-size: 10pt;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 13pt;
+}

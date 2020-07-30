@@ -1,0 +1,37 @@
+#navbarDropdown {
+    min-width: 140px;
+    text-align: right;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+section {
+    margin: 40px;
+}
+
+
+.friend-container {
+    margin: 0 30px 30px 0;
+    display: inline-block;
+}
+
+.btn {
+    margin: 8px 8px 0 0;
+    padding: 0;
+    width: 70px;
+    height: 33px;
+}
+
+.friend-add input {
+    margin-top: 8px;
+}
+
+.friend-add [type="text"] {
+    width: 300px;
+}
+
+form {
+    display: inline-block;
+}

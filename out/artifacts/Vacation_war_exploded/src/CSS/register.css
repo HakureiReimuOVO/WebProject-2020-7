@@ -1,0 +1,34 @@
+#navbarDropdown {
+    min-width: 140px;
+    text-align: right;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 35%;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+section {
+    text-align: center;
+    width: 50%;
+    min-width: 400px;
+    margin: 40px auto 40px auto;
+}
+
+input {
+    margin: 10px auto 10px auto;
+}
+
+.input-text {
+    width: 70%;
+}
+
+.input-code {
+    margin-top: 20px;
+    width: 35%;
+    display: inline-block;
+}
